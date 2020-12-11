@@ -31,3 +31,7 @@ Ejecutar los siguientes comandos para instalar las librerías y archivos adicion
 • from Cambiar_imagen import Dialog
 
 • from PyQt5 import QtCore, QtWidgets
+
+![Archivos Festividad]()
+![Archivos Festividad1]()
+![Archivos Festividad2]()
