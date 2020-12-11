@@ -32,6 +32,6 @@ Ejecutar los siguientes comandos para instalar las librerías y archivos adicion
 
 • from PyQt5 import QtCore, QtWidgets
 
-![Archivos Festividad]()
-![Archivos Festividad1]()
-![Archivos Festividad2]()
+![Archivos Festividades](https://github.com/CarlosJulioRuizTovar/Taller-de-archivos)
+![Archivos Festividades1](https://github.com/CarlosJulioRuizTovar/Taller-de-archivos)
+![Archivos Festividades2](https://github.com/CarlosJulioRuizTovar/Taller-de-archivos)
