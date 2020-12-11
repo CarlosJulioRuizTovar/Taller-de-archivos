@@ -10,7 +10,7 @@ Información básica para ejecutar el programa:
 
 El programa necesita las siguientes librerías: urllib.request, urllib.parse, urllib.error, bs4, ssl, sys, PyQt5.QtWidgets, PyQt5.QtGui, PyQt5.
 
-Ejecutar los siguientes comandos para instalar las librerías:
+Ejecutar los siguientes comandos para instalar las librerías y archivos adicionales:
 
 • import urllib.request, urllib.parse, urllib.error
 • from bs4 import BeautifulSoup
